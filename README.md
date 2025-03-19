@@ -53,7 +53,7 @@ Clone o Repositório:
 
 bash
 Copy
-git clone https://github.com/seu-usuario/TrashGenerator.git
+git clone https://github.com/gabrielsrpp/TrashGenerator.git
 Abra o Projeto no Visual Studio:
 
 Abra o arquivo TrashGenerator.sln no Visual Studio.
