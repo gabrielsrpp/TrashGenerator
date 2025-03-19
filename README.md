@@ -109,7 +109,8 @@ Arquivos de Recurso: Ícones e imagens (se houver).
 
 📷 Captura de Tela
 
-![image](https://github.com/user-attachments/assets/61252066-d86f-46cf-a8d7-f7559cd3600f)
+![image](https://github.com/user-attachments/assets/6e2a0253-6f38-4721-88e9-a90edc08e177)
+
 
 
 🤝 Contribuição
